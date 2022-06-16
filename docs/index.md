@@ -1,6 +1,6 @@
-# Matthew 25 - Group 8 Presentation
+<!-- # Matthew 25 - Group 8 Presentation -->
 
-## Prince Vladimir Youth Association
+<!-- ## Prince Vladimir Youth Association -->
 
 ### Presentation 
 
